@@ -1,0 +1,11 @@
+schema_version = "1.0.0"
+id = "bh_smart_sym"
+version = "0.8.0"
+name = "BH Smart Sym"
+tagline = "Interactive 3D arrows for quick face symmetrize"
+maintainer = "Bohdan Hrytsenko"
+type = "add-on"
+tags = ["Modeling", "Mesh"]
+blender_version_min = "4.4.0"
+license = ["SPDX:GPL-3.0-or-later"]
+website = "https://www.linkedin.com/in/bohdan-hrytsenko/"
